@@ -1,7 +1,7 @@
 # CSE185-Project
 
 ## fig 1b.ipynb:
-jupyter notebook that performs the seurat manipulation (using R inline) to recreate the UMAP figure from the following paper: https://pubmed.ncbi.nlm.nih.gov/32427931/
+jupyter notebook that performs the seurat manipulation (using R inline) to recreate the UMAP figure 1b from the following paper: https://pubmed.ncbi.nlm.nih.gov/32427931/
 
 ## UMAP_fig_1b.pdf
 High quality pdf of figure 1b (the image I was attempting to replicate).
